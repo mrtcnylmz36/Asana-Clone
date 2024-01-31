@@ -15,4 +15,4 @@
 - nodemailer
 - docker
 
-Made with reference to Gökthan Kandermir
+Made with reference to Gökthan Kandemir
